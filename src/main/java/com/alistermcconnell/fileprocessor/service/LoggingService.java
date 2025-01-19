@@ -2,7 +2,6 @@ package com.alistermcconnell.fileprocessor.service;
 
 import com.alistermcconnell.fileprocessor.domain.RequestLog;
 import com.alistermcconnell.fileprocessor.repository.LogRepository;
-//import jakarta.transaction.Transactional;
 import jakarta.transaction.Transactional;
 import org.springframework.stereotype.Service;
 

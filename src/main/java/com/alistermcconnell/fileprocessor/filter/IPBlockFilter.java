@@ -3,7 +3,6 @@ package com.alistermcconnell.fileprocessor.filter;
 import com.alistermcconnell.fileprocessor.domain.IpDetails;
 import com.alistermcconnell.fileprocessor.domain.RequestLog;
 import com.alistermcconnell.fileprocessor.service.IPService;
-//import com.alistermcconnell.fileprocessor.service.LoggingService;
 import com.alistermcconnell.fileprocessor.service.LoggingService;
 import jakarta.servlet.*;
 import jakarta.servlet.http.HttpServletRequest;
